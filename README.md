@@ -12,5 +12,5 @@
 - Davi Henrique
 - Jullya Sally
 - Nicolas Guilherme
-- Radrígyla Chíntia
+- Radrígyla Cíntia
 - Samuel Levi
